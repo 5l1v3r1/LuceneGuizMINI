@@ -1,0 +1,2 @@
+# LuceneGuizMINI
+LuceneGuiz mini version
